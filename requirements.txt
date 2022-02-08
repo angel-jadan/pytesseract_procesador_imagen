@@ -1,3 +1,5 @@
 Pillow
+tesseract
+tesseract-ocr
 pytesseract
 XlsxWriter
